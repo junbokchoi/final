@@ -7,6 +7,6 @@ The gums are closed becuase of the pandemic and people need equipmend to work ou
 
 
 Team Members:
-Jun Bok Choi
-Jason Ring
-Mohammed Alsamarai
+Jun Bok Choi,
+Jason Ring,
+Mohammed Alsamarai.
